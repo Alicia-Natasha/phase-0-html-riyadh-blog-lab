@@ -17,6 +17,8 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  background-color: #94949400;
+  text-decoration-color: #fff;
 }
 
 #content {
